@@ -15,8 +15,8 @@ I'm a developer passionate about building practical web applications and learnin
 
 ## 🛠️ Tech Stack
 
-**Backend:** PHP, Laravel  
-**Frontend:** HTML, CSS, JavaScript, Blade  
+**Backend:** PHP, Laravel 
+**Frontend:** HTML, CSS, JavaScript, Bootstrap, Tailwind CSS 
 **Database:** MySQL  
 **Tools:** Git, GitHub, Composer, npm  
 
